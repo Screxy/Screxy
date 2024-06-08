@@ -1,13 +1,13 @@
 ## Hello 👋 I'm Vladislav
 
 <a href="https://t.me/screxy" title="Telegram">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.svgporn.com/logos/telegram.svg">
+  <img alt="Telegram" width="22px" src="https://cdn.svgporn.com/logos/telegram.svg">
 </a>
 <a href="https://vk.com/screxy" title="VK">
-  <img align="left" alt="VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" />
+  <img alt="VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" />
 </a>
 <a href="mailto:dvbvladis@mail.ru" title="Email">
-  <img align="left" alt="Email" width="22px" src="https://cdn.icon-icons.com/icons2/294/PNG/128/Mail_31108.png" />
+  <img alt="Email" width="22px" src="https://cdn.icon-icons.com/icons2/294/PNG/128/Mail_31108.png" />
 </a>
 <br>
 
